@@ -2462,7 +2462,7 @@
 		-ms-justify-content: space-between;
 		justify-content: space-between;
 		background: #132540;
-		color: #98C1FF;
+		color: #4C93FF;
 		height: 100%;
 		overflow-y: auto;
 		position: fixed;
@@ -2481,11 +2481,11 @@
 			}
 
 		#header header p {
-			color: #98C1FF;
+			color: #4C93FF;
 		}
 
 		#header a {
-			color: #98C1FF;
+			color: #4C93FF;
 		}
 
 			#header a:hover {
@@ -2512,7 +2512,7 @@
 			}
 
 			#header > header p {
-				color: #98C1FF;
+				color: #4C93FF;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -2533,7 +2533,7 @@
 			}
 
 				#header > footer .icons li a {
-					color: #98C1FF;
+					color: #4C93FF;
 				}
 
 		#header > nav {
